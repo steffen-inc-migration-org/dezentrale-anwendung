@@ -1,5 +1,4 @@
 # dezentrale-anwendung
 
-## Usage
-
+## How to use this
 
